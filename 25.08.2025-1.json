@@ -1,0 +1,25 @@
+{
+    "name": "Ruben Adams",
+    "age": 97,
+    "address": {
+        "street": "Anthony Lodge",
+        "city": "Barberchester",
+        "state": "Tennessee",
+        "zip": "55316"
+    },
+    "contact": {
+        "phone": "001-500-588-0428x06522",
+        "servicePhone": "800515563"
+    },
+    "birthday": "1928-25-11",
+    "ip": "154.96.154.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Give heavy physical particular. Vote involve Republican according. Member center sound peace group administration.\nLong fall buy. Control step most appear.",
+        "bio": "Factor east animal admit according. Budget yourself along memory. Note Republican laugh start.\nOfficer participant smile its attorney so voice. Design record health stay civil."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
